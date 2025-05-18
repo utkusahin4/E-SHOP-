@@ -1,0 +1,217 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Gaming Mouse",
+      "price": 650,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1605773527852-c546a8584ea3?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "High precision gaming mouse",
+      "discount": true,
+      "reviews": [
+        {
+          "username": "Anonymous",
+          "title": "Nice",
+          "text": "Nice gaming mouse :)) ",
+          "stars": 5
+        }
+      ],
+      "quantity": 2
+    },
+    {
+      "id": "2",
+      "title": "Bluetooth Speaker",
+      "price": 850,
+      "category": "Audio",
+      "image": "https://images.unsplash.com/photo-1589003077984-894e133dabab?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Wireless speaker with deep bass",
+      "discount": false
+    },
+    {
+      "id": "3",
+      "title": "Laptop Stand",
+      "price": 150,
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1629317480826-910f729d1709?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Ergonomic stand",
+      "discount": true
+    },
+    {
+      "id": "4",
+      "title": "USB-C Charger",
+      "price": 120,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1711056831898-97718f6972d3?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Fast charging",
+      "discount": false
+    },
+    {
+      "id": "5",
+      "title": "Webcam HD",
+      "price": 450,
+      "category": "Camera",
+      "image": "https://images.unsplash.com/photo-1626581806599-d12b0bbd4225?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "1080p webcam",
+      "discount": false,
+      "reviews": [
+        {
+          "username": "Anonymous",
+          "title": "BEST WEBCAM EVER ! ",
+          "text": "<3",
+          "stars": 5
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Wireless Keyboard",
+      "price": 300,
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1686730491204-819a6dda6c68?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Ergonomic keyboard",
+      "discount": true
+    },
+    {
+      "id": "7",
+      "title": "Monitor 24 inch",
+      "price": 1100,
+      "category": "Display",
+      "image": "https://images.unsplash.com/photo-1585792180666-f7347c490ee2?q=80&w=1177&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Full HD monitor",
+      "discount": false
+    },
+    {
+      "id": "8",
+      "title": "Noise Cancelling Headphones",
+      "price": 1300,
+      "category": "Audio",
+      "image": "https://images.unsplash.com/photo-1704440278730-b420f5892700?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Deep bass headphones",
+      "discount": true
+    },
+    {
+      "id": "9",
+      "title": "Tablet 10.1",
+      "price": 2400,
+      "category": "Tablet",
+      "image": "https://plus.unsplash.com/premium_photo-1673968280716-ca0c00af8a39?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Android tablet",
+      "discount": false
+    },
+    {
+      "id": "10",
+      "title": "Smartwatch",
+      "price": 950,
+      "category": "Wearable",
+      "image": "https://images.unsplash.com/photo-1609951894313-1390909edc11?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Health tracking smartwatch",
+      "discount": true
+    },
+    {
+      "id": "11",
+      "title": "Portable SSD",
+      "price": 750,
+      "category": "Storage",
+      "image": "https://images.unsplash.com/photo-1720048170016-751876b1dba0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "1TB portable SSD",
+      "discount": false
+    },
+    {
+      "id": "12",
+      "title": "Router Dual Band",
+      "price": 500,
+      "category": "Network",
+      "image": "https://plus.unsplash.com/premium_photo-1671017817487-baaae0de6d4d?q=80&w=1148&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "High speed router",
+      "discount": false
+    },
+    {
+      "id": "13",
+      "title": "Gaming Headset",
+      "price": 850,
+      "category": "Audio",
+      "image": "https://plus.unsplash.com/premium_photo-1679177183750-0eda63444b24?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Surround sound",
+      "discount": true
+    },
+    {
+      "id": "14",
+      "title": "Graphics Tablet",
+      "price": 1400,
+      "category": "Drawing",
+      "image": "https://images.unsplash.com/photo-1602214710513-5cb3f729a809?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Digital drawing pad",
+      "discount": false
+    },
+    {
+      "id": "15",
+      "title": "External DVD Drive",
+      "price": 350,
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1674412865392-d62f944c5e94?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "USB DVD reader",
+      "discount": false
+    },
+    {
+      "id": "16",
+      "title": "VR Headset",
+      "price": 2200,
+      "category": "Gaming",
+      "image": "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Immersive VR",
+      "discount": true
+    },
+    {
+      "id": "17",
+      "title": "Desk Lamp USB",
+      "price": 200,
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1571406487954-dc11b0c0767d?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "LED desk lamp",
+      "discount": false
+    },
+    {
+      "id": "18",
+      "title": "Mechanical Keyboard",
+      "price": 700,
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1626958390898-162d3577f293?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Tactile feedback",
+      "discount": true
+    }
+  ],
+  "campaigns": [
+    {
+      "id": "69c6",
+      "name": "Summer Sale - %25 SALE",
+      "description": "Great discounts on top electronics",
+      "discount": 25,
+      "productIds": [
+        "1",
+        "18",
+        "14"
+      ]
+    },
+    {
+      "id": "67db",
+      "name": "Back to School - %15 SALE",
+      "description": "Stationery and accessories at lower prices",
+      "discount": 15,
+      "productIds": [
+        "7",
+        "11"
+      ]
+    },
+    {
+      "id": "0896",
+      "name": "Winter Warm-Up Deals - %30 SALE",
+      "description": "Cozy essentials at discounted prices!",
+      "discount": 30,
+      "productIds": [
+        "16",
+        "6"
+      ]
+    }
+  ],
+  "shoppingcart": []
+}

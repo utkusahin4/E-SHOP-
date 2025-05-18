@@ -1,0 +1,15 @@
+{
+  "name": "cs391-project",
+  "version": "1.0.0",
+  "description": "CS391 Project combining frontend (Next.js) and backend (json-server)",
+  "private": true,
+  "scripts": {
+    "frontend": "cd frontend && npm run dev",
+    "backend": "json-server --watch backend/db.json --port 5001",
+    "start": "npm-run-all --parallel frontend backend"
+  },
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.3",
+    "npm-run-all": "^4.1.5"
+  }
+}
